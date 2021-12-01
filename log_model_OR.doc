@@ -1,0 +1,81 @@
+
+<table style="text-align:center"><tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"></td><td><em>Dependent variable:</em></td></tr>
+<tr><td></td><td colspan="1" style="border-bottom: 1px solid black"></td></tr>
+<tr><td style="text-align:left"></td><td>DUDIT_binary</td></tr>
+<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">COHORTmiddle</td><td>0.673</td></tr>
+<tr><td style="text-align:left"></td><td>(0.211)<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">COHORTolder</td><td>0.649</td></tr>
+<tr><td style="text-align:left"></td><td>(0.223)<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">genderman</td><td>0.436</td></tr>
+<tr><td style="text-align:left"></td><td>(0.186)<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">gendernon_binary</td><td>0.559</td></tr>
+<tr><td style="text-align:left"></td><td>(0.336)<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">sexual_orientation(2) Bisexual</td><td>2.301</td></tr>
+<tr><td style="text-align:left"></td><td>(0.225)<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">sexual_orientation(3) Other sexual minority identity</td><td>3.480</td></tr>
+<tr><td style="text-align:left"></td><td>(0.315)<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">raceblack</td><td>1.581</td></tr>
+<tr><td style="text-align:left"></td><td>(0.339)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">racelatino</td><td>1.265</td></tr>
+<tr><td style="text-align:left"></td><td>(0.296)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">poverty(1) Yes in poverty</td><td>1.154</td></tr>
+<tr><td style="text-align:left"></td><td>(0.241)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">GEDUC2(2) More than HS</td><td>0.900</td></tr>
+<tr><td style="text-align:left"></td><td>(0.189)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">happiness(2) Pretty happy</td><td>1.215</td></tr>
+<tr><td style="text-align:left"></td><td>(0.221)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">happiness(3) Not too happy</td><td>1.468</td></tr>
+<tr><td style="text-align:left"></td><td>(0.269)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">bullying(2) Sometimes</td><td>1.435</td></tr>
+<tr><td style="text-align:left"></td><td>(0.196)<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">bullying(3) Rarely</td><td>1.536</td></tr>
+<tr><td style="text-align:left"></td><td>(0.253)<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">bullying(4) Never</td><td>0.722</td></tr>
+<tr><td style="text-align:left"></td><td>(0.277)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">sexual_abuseyes</td><td>1.835</td></tr>
+<tr><td style="text-align:left"></td><td>(0.182)<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">incaceration_parentyes</td><td>1.056</td></tr>
+<tr><td style="text-align:left"></td><td>(0.258)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">substance_abuse_parentyes</td><td>0.987</td></tr>
+<tr><td style="text-align:left"></td><td>(0.180)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">IPV_abuseyes</td><td>1.172</td></tr>
+<tr><td style="text-align:left"></td><td>(0.193)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">sexual_orientation(2) Bisexual:raceblack</td><td>0.399</td></tr>
+<tr><td style="text-align:left"></td><td>(0.534)<sup>*</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">sexual_orientation(3) Other sexual minority identity:raceblack</td><td>0.534</td></tr>
+<tr><td style="text-align:left"></td><td>(0.745)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">sexual_orientation(2) Bisexual:racelatino</td><td>0.623</td></tr>
+<tr><td style="text-align:left"></td><td>(0.475)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">sexual_orientation(3) Other sexual minority identity:racelatino</td><td>0.726</td></tr>
+<tr><td style="text-align:left"></td><td>(0.648)</td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td style="text-align:left">Constant</td><td>0.314</td></tr>
+<tr><td style="text-align:left"></td><td>(0.335)<sup>***</sup></td></tr>
+<tr><td style="text-align:left"></td><td></td></tr>
+<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Observations</td><td>1,217</td></tr>
+<tr><td style="text-align:left">Log Likelihood</td><td>-733.319</td></tr>
+<tr><td style="text-align:left">Akaike Inf. Crit.</td><td>1,514.638</td></tr>
+<tr><td colspan="2" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left"><em>Note:</em></td><td style="text-align:right"><sup>*</sup>p<0.1; <sup>**</sup>p<0.05; <sup>***</sup>p<0.01</td></tr>
+</table>
